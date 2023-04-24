@@ -1,0 +1,10 @@
+{
+    "name": "training-node-event-main",
+    "version": "1.0.0",
+    "main": "./src/index.mjs",
+    "license": "MIT",
+    "scripts": {
+      "start": "node --inspect ./src/index.mjs"
+    }
+  }
+  
